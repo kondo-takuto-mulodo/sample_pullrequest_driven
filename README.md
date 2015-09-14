@@ -2,6 +2,9 @@
 ## Outline
 The repository is for learning pull request driven development.
 
+## What's pull request driven?
+With creating pull request before start coding, Issues and commits would be associated. After created pull request, you can track all commits and conversation about the branch in a pull request. It makes review be easy and makes your code get better.
+
 ## Flow
 
 1\. At first, you need to create new issue for your task and pull request. For making your task be clear, write issue as TODO list with the following format. Actually it's better to consider TODO format each project.
