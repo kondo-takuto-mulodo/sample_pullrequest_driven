@@ -69,4 +69,4 @@ https://github.com/kondo-takuto-mulodo/sample_pullrequest_driven/pull/4
 https://github.com/kondo-takuto-mulodo/sample_pullrequest_driven/commit/d55654da8b2158929355983315e90c6438ae5c82
 
 7\. Request merge branch.
-
+After all review cleared, you can merge your code to the other branch.
